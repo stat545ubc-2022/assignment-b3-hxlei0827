@@ -1,7 +1,7 @@
 # Assignment3 
 ## Link for running shiny app.
 
-http://127.0.0.1:7177/
+https://hxlei0827.shinyapps.io/assignment-b3-hxlei0827/
 
 
 ## Choose Option 1, adding three more features on the BC liquor app
