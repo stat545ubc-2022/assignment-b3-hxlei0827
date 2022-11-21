@@ -1,5 +1,6 @@
 library(shiny)
 library(tidyverse)
+library(DT)
 
 bcl <- read_csv("/Users/haoxianglei/STAT545/shiny_test/BCLiquor/bcl-data.csv")
 
