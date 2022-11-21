@@ -2,7 +2,7 @@ library(shiny)
 library(tidyverse)
 library(DT)
 
-bcl <- read_csv("/Users/haoxianglei/STAT545/shiny_test/BCLiquor/bcl-data.csv")
+bcl <- read_csv("https://raw.githubusercontent.com/daattali/shiny-server/master/bcl/www/bcl-data.csv")
 
 #ggplot(bcl, aes(Alcohol_Content)) + geom_histogram()
 
